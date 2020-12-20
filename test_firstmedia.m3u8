@@ -1,0 +1,5 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=data.flurry.com
+#KODIPROP:inputstream.adaptive.license_key=https://data.flurry.com/v1/flr.do
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="Server ID: TVRI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Indonesia",FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
