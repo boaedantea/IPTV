@@ -6,7 +6,7 @@
     <channel update="i" site="visionplus.id" site_id="8" xmltv_id="CINEMAX">CINEMAX</channel>
     <channel update="i" site="visionplus.id" site_id="9" xmltv_id="HBO Family">HBO Family</channel>
     <channel update="i" site="visionplus.id" site_id="10" xmltv_id="HBO Hits">HBO Hits</channel>
-    <channel update="i" site="visionplus.id" site_id="11" xmltv_id="HITS Movies">HITS Movies</channel>
+    <channel update="i" site="visionplus.id" site_id="11" xmltv_id="TRANS7">TRANS7</channel>
     <channel update="i" site="visionplus.id" site_id="14" xmltv_id="FOX Movies">FOX Movies</channel>
     <channel update="i" site="visionplus.id" site_id="15" xmltv_id="FOX Family Movies">FOX Family Movies</channel>
     <channel update="i" site="visionplus.id" site_id="16" xmltv_id="FOX Action Movies">FOX Action Movies</channel>
@@ -127,7 +127,7 @@
     <channel update="i" site="visionplus.id" site_id="422" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
     <channel update="i" site="visionplus.id" site_id="425" xmltv_id="beIN Sports 1 HD">beIN Sports 1 HD</channel>
     <channel update="i" site="visionplus.id" site_id="426" xmltv_id="beIN Sports 2 HD">beIN Sports 2 HD</channel>
-    <channel update="i" site="visionplus.id" site_id="430" xmltv_id="RCTI HD">RCTI HD</channel>
+    <channel update="i" site="visionplus.id" site_id="2" xmltv_id="RCTI">RCTI</channel>
     <channel update="i" site="visionplus.id" site_id="436" xmltv_id="Diva HD">Diva HD</channel>
     <channel update="i" site="visionplus.id" site_id="437" xmltv_id="FOX HD">FOX HD</channel>
     <channel update="i" site="visionplus.id" site_id="438" xmltv_id="AXN HD">AXN HD</channel>
