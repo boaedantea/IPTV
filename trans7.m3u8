@@ -1,4 +1,11 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6RhmdhvtUPFSpbvI0SthFQ)/dm/3/x6p1gw7/s/live-4.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:24
+#EXT-X-MEDIA-SEQUENCE:481650
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/133/trans7_dash/media_w1976245117_b1344100_sleng_481650.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/133/trans7_dash/media_w1976245117_b1344100_sleng_481651.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/133/trans7_dash/media_w1976245117_b1344100_sleng_481652.ts
