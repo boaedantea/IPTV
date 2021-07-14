@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png",HBO 
-https://raw.githubusercontent.com/boaedantea/IPTV/master/ID_hbo_hd.m3u8
+http://topwin-tv.my.id/m3u/hbo-hbohd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png",HBO HITS
 http://topwin-tv.my.id/m3u/hbo-hitshd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png",HBO FAMILY
