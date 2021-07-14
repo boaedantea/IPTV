@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png",HBO 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://topwin-tv.my.id/m3u/hbo-hbohd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+http://topwin-tv.my.id/m3u/hbo-hitshd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+http://topwin-tv.my.id/m3u/hbo-famhd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/vVTXXZT/HBO-SIGNATURE.png",HBO SIGNATURE
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+http://topwin-tv.my.id/m3u/hbo-sighd.m3u8
 #EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.ibb.co/PTVKHGr/CINEMAX-1.png",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://topwin-tv.my.id/m3u/hbo-maxhd.m3u8
